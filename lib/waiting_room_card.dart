@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:tp1/waiting_room_timestamp.dart';
 
-/// A card that greets a visitor of the waiting room by [name] and shows the
-/// time at which they checked in.
 class WaitingRoomCard extends StatelessWidget {
   final String name;
 
