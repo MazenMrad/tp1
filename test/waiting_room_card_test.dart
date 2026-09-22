@@ -1,7 +1,6 @@
-// test/waiting_room_card_test.dart
-import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:tp1/waiting_room_card.dart';
+import 'package:flutter/material.dart';
 
 void main() {
   testWidgets('WaitingRoomCard displays the name correctly',
